@@ -1,0 +1,48 @@
+@import '_config.scss';
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: $font-stack;
+}
+
+.Wrapper {
+  margin: 0 10%;
+  height: 100vh;
+
+  .menu {
+
+    padding: 32px 0;
+    display: flex;
+    justify-content: space-between;
+    
+    .title {
+      font-weight: bold;
+    }
+
+    nav {
+      display: flex;
+      p {
+        margin-left: 16px;
+      }
+    }
+
+  }
+
+  .scroll-down {
+    text-transform: uppercase;
+  }
+
+  .tagline {
+    position: absolute;
+    top: 50%;
+    right: -32px;
+    transform: rotateZ(270deg);
+    text-transform: uppercase;
+  }
+}
+
+
+
+@import '_content.scss';

@@ -1,0 +1,43 @@
+.Content {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+    background-color: white;
+
+    .side-img {
+        height: 250px;
+        width: 200px;
+    }
+    
+    .main-img {
+        height: 500px;
+        width: 400px;
+    }
+
+    .more-details {
+        position: relative;
+        bottom: 48px;
+        left: -48px;
+        font-size: 0.8rem;
+    }
+
+    .right {
+        align-self: flex-end;
+    }
+
+    .main-title {
+        font-variant: $font-stack;
+        font-size: 5rem;
+        position: absolute;
+        width: 100%;
+        top: 50%;
+        left: 0;
+        letter-spacing: 15px;
+        font-weight: 900;
+        mix-blend-mode: difference;
+        z-index: 9;
+        color: white;
+        text-align: center;
+    }
+
+}

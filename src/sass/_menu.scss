@@ -1,0 +1,18 @@
+.menu {
+
+    padding: 32px 0;
+    display: flex;
+    justify-content: space-between;
+    
+    .title {
+      font-weight: bold;
+    }
+
+    nav {
+      display: flex;
+      p {
+        margin-left: 16px;
+      }
+    }
+
+  }

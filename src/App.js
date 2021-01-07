@@ -1,23 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import Content from './Content';
+import Menu from './Menu';
+import './sass/App.scss';
+import AnimatedCursor from "react-animated-cursor"
+
 
 function App() {
-  return (
+  return (  
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <AnimatedCursor/>
+      <div className="Wrapper">
+        <Menu />
+        <Content />
+        <p className="scroll-down">Scroll Down</p>
+        <p className="tagline">Visual artist and photographer</p>
+      </div>
     </div>
   );
 }
