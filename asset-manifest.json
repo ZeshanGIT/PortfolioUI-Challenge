@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/PortfolioUI-Challenge/static/css/main.27ab815a.chunk.css",
-    "main.js": "/PortfolioUI-Challenge/static/js/main.7f7b8f17.chunk.js",
-    "main.js.map": "/PortfolioUI-Challenge/static/js/main.7f7b8f17.chunk.js.map",
+    "main.css": "/PortfolioUI-Challenge/static/css/main.96f0e6d7.chunk.css",
+    "main.js": "/PortfolioUI-Challenge/static/js/main.9026e2b7.chunk.js",
+    "main.js.map": "/PortfolioUI-Challenge/static/js/main.9026e2b7.chunk.js.map",
     "runtime-main.js": "/PortfolioUI-Challenge/static/js/runtime-main.6a70effb.js",
     "runtime-main.js.map": "/PortfolioUI-Challenge/static/js/runtime-main.6a70effb.js.map",
-    "static/js/2.9267f1db.chunk.js": "/PortfolioUI-Challenge/static/js/2.9267f1db.chunk.js",
-    "static/js/2.9267f1db.chunk.js.map": "/PortfolioUI-Challenge/static/js/2.9267f1db.chunk.js.map",
+    "static/js/2.72c8be1a.chunk.js": "/PortfolioUI-Challenge/static/js/2.72c8be1a.chunk.js",
+    "static/js/2.72c8be1a.chunk.js.map": "/PortfolioUI-Challenge/static/js/2.72c8be1a.chunk.js.map",
     "static/js/3.de1b5637.chunk.js": "/PortfolioUI-Challenge/static/js/3.de1b5637.chunk.js",
     "static/js/3.de1b5637.chunk.js.map": "/PortfolioUI-Challenge/static/js/3.de1b5637.chunk.js.map",
     "index.html": "/PortfolioUI-Challenge/index.html",
-    "static/css/main.27ab815a.chunk.css.map": "/PortfolioUI-Challenge/static/css/main.27ab815a.chunk.css.map",
-    "static/js/2.9267f1db.chunk.js.LICENSE.txt": "/PortfolioUI-Challenge/static/js/2.9267f1db.chunk.js.LICENSE.txt",
+    "static/css/main.96f0e6d7.chunk.css.map": "/PortfolioUI-Challenge/static/css/main.96f0e6d7.chunk.css.map",
+    "static/js/2.72c8be1a.chunk.js.LICENSE.txt": "/PortfolioUI-Challenge/static/js/2.72c8be1a.chunk.js.LICENSE.txt",
     "static/media/diamonds.f4331b34.png": "/PortfolioUI-Challenge/static/media/diamonds.f4331b34.png",
     "static/media/poppin-shades.15b95240.png": "/PortfolioUI-Challenge/static/media/poppin-shades.15b95240.png",
     "static/media/sexy-orange.6e1d4274.png": "/PortfolioUI-Challenge/static/media/sexy-orange.6e1d4274.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6a70effb.js",
-    "static/js/2.9267f1db.chunk.js",
-    "static/css/main.27ab815a.chunk.css",
-    "static/js/main.7f7b8f17.chunk.js"
+    "static/js/2.72c8be1a.chunk.js",
+    "static/css/main.96f0e6d7.chunk.css",
+    "static/js/main.9026e2b7.chunk.js"
   ]
 }
